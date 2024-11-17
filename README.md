@@ -64,14 +64,8 @@ This repository contains the source code and implementation details for a medica
 - **Patient Data**: Add and manage patient records through the graphical interface.  
 
 ## Circuit Diagram  
-
  
 ![Uploading image.png…]()
 
-## License  
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  
 
----
-
-This template is detailed and professional, making it a great fit for a medical-related project on GitHub. You can modify specific sections as needed.
