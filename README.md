@@ -64,8 +64,8 @@ This repository contains the source code and implementation details for a medica
 - **Patient Data**: Add and manage patient records through the graphical interface.  
 
 ## Circuit Diagram  
- 
-![Uploading image.png…]()
 
+ ![image](https://github.com/user-attachments/assets/7fdd0b0f-7a4c-44df-b601-441b58a01982)
 
+ ![image](https://github.com/user-attachments/assets/610672b7-9f8d-42d7-a293-a1fe17dc7883)
 
